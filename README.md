@@ -19,6 +19,7 @@ Personal explorations into climate change data, environmental trends, and sustai
 ## Current Notebooks / Content
 
 - `climate_trends_exploration.ipynb` → Basic analysis of global temperature, CO₂ emissions, extreme weather (work in progress).
+- `climate_trends_exploration.ipynb` → ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/climate_trends_exploration.ipynb)).
 
 - More coming soon: Urban heat islands, sustainable city indicators, green space mapping, renewable energy transitions.
 
@@ -48,7 +49,15 @@ jupyter notebook
 
 ```
 
-Or run notebooks directly in Google Colab (badges added per notebook)
+Or run notebooks directly in Google Colab ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/climate_trends_exploration.ipynb))
+
+## Dataset sources (download/upload to Colab or use direct links where possible):
+
+Temperature: NASA GISS (https://data.giss.nasa.gov/gistemp/)
+
+CO₂: NOAA (https://gml.noaa.gov/ccgg/trends/data.html)
+
+Urban/sustainable cities: World Bank (https://data.worldbank.org/topic/urban-development), UN-Habitat (https://data.unhabitat.org/), or Kaggle "Sustainable Urban Planning" dataset.
 
 
 ## Skills Demonstrated
