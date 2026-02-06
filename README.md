@@ -18,8 +18,8 @@ Personal explorations into climate change data, environmental trends, and sustai
 
 ## Current Notebooks / Content
 
-- `climate_trends_exploration.ipynb` → Basic analysis of global temperature, CO₂ emissions, extreme weather (work in progress).
-- `climate_trends_exploration.ipynb` → ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/climate_trends_exploration.ipynb)).
+- [`climate_trends_exploration.ipynb`](https://github.com/S33mi/climate-urban-sustainability/blob/main/notebooks/climate_trends_exploration.ipynb) → Basic analysis of global temperature, CO₂ emissions, extreme weather (work in progress).
+- [`climate_trends_exploration.ipynb`](https://github.com/S33mi/climate-urban-sustainability/blob/main/notebooks/climate_trends_exploration.ipynb) → ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/notebooks/climate_trends_exploration.ipynb)).
 
 - More coming soon: Urban heat islands, sustainable city indicators, green space mapping, renewable energy transitions.
 
@@ -49,7 +49,7 @@ jupyter notebook
 
 ```
 
-Or run notebooks directly in Google Colab ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/climate_trends_exploration.ipynb))
+Or run notebooks directly in Google Colab ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S33mi/climate-sustainable-cities/blob/main/notebooks/notebooks/climate_trends_exploration.ipynb))
 
 ## Dataset sources (download/upload to Colab or use direct links where possible):
 
